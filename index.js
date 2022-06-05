@@ -5,7 +5,6 @@ $(window).load(function () {
     $(".line4_data").hide();
     $(".line3_data").hide();
     $(".line2_data").hide();
-    $(".line1_data").show();
   });
   $(".trigger_popup2").click(function() {
     $(".line6_data").hide();
@@ -13,7 +12,6 @@ $(window).load(function () {
     $(".line4_data").hide();
     $(".line3_data").hide();
     $(".line2_data").show();
-    $(".line1_data").hide();
   });
   $(".trigger_popup3").click(function() {
     $(".line6_data").hide();
@@ -21,7 +19,6 @@ $(window).load(function () {
     $(".line4_data").hide();
     $(".line3_data").show();
     $(".line2_data").hide();
-    $(".line1_data").hide();
   });
   $(".trigger_popup4").click(function() {
     $(".line6_data").hide();
@@ -29,7 +26,6 @@ $(window).load(function () {
     $(".line4_data").show();
     $(".line3_data").hide();
     $(".line2_data").hide();
-    $(".line1_data").hide();
   });
   $(".trigger_popup5").click(function() {
     $(".line6_data").hide();
@@ -37,7 +33,6 @@ $(window).load(function () {
     $(".line4_data").hide();
     $(".line3_data").hide();
     $(".line2_data").hide();
-    $(".line1_data").hide();
   });
   $(".trigger_popup6").click(function() {
     $(".line6_data").show();
@@ -45,6 +40,5 @@ $(window).load(function () {
     $(".line4_data").hide();
     $(".line3_data").hide();
     $(".line2_data").hide();
-    $(".line1_data").hide();
   });
 });

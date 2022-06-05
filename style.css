@@ -183,7 +183,7 @@ h1.animate__animated {
 
 
 .data {
-  transform: translate(22vw, -42vw);
+  transform: translate(44vh, -87vh);
   align-self: center;
   width: 75vw;
 }
@@ -192,8 +192,9 @@ h1.animate__animated {
   display: none;
   box-sizing: border-box;
   border-radius: 1vw;
-  width: 75vw;
-  margin-top: 4vh;
+  width: 100%;
+  margin-top: 15vh;
+  margin-right: 2vh;
   height: 35vw;
   background-color: white;
   animation-duration: 1s; /*make it less goofy, fix timing*/
@@ -213,6 +214,38 @@ h1.animate__animated {
   padding-left: 2vw;
   font-weight: bold;
   font-size: 2vw;
+}
+
+.data .line2_data {
+  height: 100vh;
+}
+
+.data .line3_data {
+  height: 65vh;
+}
+
+.data .line4_data {
+  height: 75vh;
+}
+
+.data .line5_data {
+  height: 30vh;
+}
+
+.line2_data {
+  font-size: 1.5vw;
+}
+
+.line3_data {
+  font-size: 1.5vw;
+}
+
+.line4_data {
+  font-size: 1.5vw;
+}
+
+.line5_data {
+  font-size: 1.5vw;
 }
 
 .sidebar {
